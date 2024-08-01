@@ -1,0 +1,129 @@
+.kontaktai{
+    margin:0 auto;
+    width:1400px;
+    display:flex;
+   gap:8em;
+}
+
+.kontaktai-left {
+    margin-top:2em;
+    width:468px;
+
+}
+
+.kontaktai-left h2{
+    font-size:64px;
+    font-family: "Roboto", sans-serif;
+    font-weight:600;
+    color:#0C1A3A;
+    padding:10px
+}
+
+.kontaktai p{
+    font-size:18px;
+    font-family: "DM Sans", sans-serif;
+    padding:10px;
+    
+}
+
+.kontaktai img{
+   height:50px;
+   width:50px;
+}
+
+.kontaktas p{padding:0;}
+.kontaktas {
+    padding:10px;
+    display:flex;
+    gap:1em;
+    text-align: left;
+}
+
+.ikoneles-apacia{
+    display:flex;
+    gap:2em;
+}
+
+.ikoneles-apacia img{
+    width:22px;
+    height:26px;
+}
+
+.kontaktai-right{
+    margin-top:2em;
+    margin-left:2em;
+    width:795px;   
+    background-color: #F4F4F4;
+    border-radius: 20px;
+}
+
+.linija{
+    border-bottom:2px solid #F4F4F4;
+    width:468px;
+    margin:1em;
+}
+
+/* default stiliu visiskas numetimas */
+input {
+    all: unset;
+}
+
+textarea {
+    all: unset;
+}
+
+
+
+.kontaktai-right input{
+    
+    width:326px;
+    height:76px;
+    padding:10px;
+    margin:1em;
+    border-bottom:1px solid #DFDFDF;
+    background-color: #F4F4F4;
+    font-weight:600;
+    font-family: "DM Sans", sans-serif;
+    font-size:18px;
+
+}
+
+.kontaktai-right textarea{
+    width:715px;
+    height:75px;
+    padding:10px;
+    margin:1em;
+    border-bottom:1px solid #DFDFDF;
+    background-color: #F4F4F4;
+    font-weight:600;
+    font-family: "DM Sans", sans-serif;
+    font-size:18px;
+}
+
+.kontaktai-right button{
+    margin-left:2em;
+    height:47x;
+    width:139px;
+    border-radius: 23px;
+    background-color: #0C1A3A;
+    padding:10px;
+    color:#fff;
+    font-family: "DM Sans", sans-serif;
+    font-size:18px;
+    font-weight: 600;
+}
+
+.maps {
+    margin:0 auto;
+    margin-top:5em;
+    margin-bottom:5em;
+    width:1400px;
+    height:314px;
+  
+}
+
+.map {
+    width:1400px;
+    height:314px;
+    object-position:center;
+}

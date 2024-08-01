@@ -1,0 +1,374 @@
+.pradinis{
+    max-width:1920px;
+    background-color:#0C1A3A ;
+}
+
+
+
+
+.pradinis-1dalis{
+    margin:0 auto;
+    width:1400px;
+     
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+
+}
+
+
+.pradinis-1dalis h1{
+    margin-top:2em;
+    width:631.53px;
+    font-size: 64px;
+    color:white;
+}
+
+.augimas {color:#FF6600;}
+
+
+.text1-pradinis {
+    
+    width:557px;
+    height:46px;
+    font-size:18px;
+    color:white;
+    display:flex;
+    flex-direction: column;
+    justify-content: flex-start;
+ 
+
+}
+
+.foto-pradinis {
+    margin-top:4em;
+  
+    position:relative;
+    left:4em;
+    width:785px;
+    height:747px;
+    border:2px solid #FF660033;
+
+    border-radius: 50%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.foto-pradinis2 {
+    width:665px;
+    height:647px;
+    border:2px solid #FF660033;
+
+    border-radius: 50%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.apvalusimg {
+    width:550px;
+    height:547px;
+   
+}
+
+
+.trybutton{
+    margin-top:2em;
+    height:48x;
+    width:288px;
+    border-radius: 23px;
+    padding:10px;
+    font-family: "DM Sans", sans-serif;
+    font-size:20px;
+    font-weight: 600;
+}
+
+.trybutton svg {
+    position:relative;
+    top:0.1em;
+}
+
+.text2-pradinis{
+
+    margin-top:8em;
+    width:693.91px;
+
+}
+
+
+.text2-pradinis h4{color:#FF6600;}
+
+
+.text2-pradinis img{
+   
+    width:147px;
+    height:70px;
+}
+
+.text2-pradinis .client1 {width:247px;}
+
+
+.pradinis-paslaugos {
+    text-align: center;
+    margin:0 auto;
+    max-width:1400px;
+}
+
+.pradinis-paslaugos h3{
+    margin-top:2em;
+    color:#FF6600;
+    font-family: "Roboto", sans-serif;
+    font-size:30px;
+    font-weight: 600;
+}
+
+.pradinis-paslaugos h2{
+    
+    font-family: "Roboto", sans-serif;
+    font-size:64px;
+    font-weight: 600;
+    margin-bottom:1em;
+}
+
+.paslaugos {
+   
+    text-align: left;
+    display:grid;
+
+    grid-template-columns: 437px 437px 437px;
+    gap:2em;
+    margin-bottom:8em;
+ 
+}
+/* Paslaugos */
+.paslauga {
+ 
+    border:0.5px solid #F4F4F4;
+    border-radius: 20px;
+    padding:45px;
+   
+    background-color: #F4F4F4;
+    
+    
+}
+
+.paslauga:hover {
+    background-color:#0C1A3A;
+    color:#FFF;
+}
+
+.paslauga h4{margin-top:2em;font-size: 25px;}
+
+.paslauga p{margin-top:2em; font-size:18px}
+
+.pradinis-apacia{
+    margin-top:2em;
+    height:903px;
+    background-color: #0C1A3A;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    gap:3em;
+    color:white;
+
+}
+.text-apacia{
+    width:586px;
+}
+
+.pradinis-apacia h3{
+    
+    color:#FF6600;
+    font-size:30px;
+}
+.pradinis-apacia h1{
+    margin-top:1em;
+    font-size: 64px;
+}
+
+.text1-aprasymas span{
+    margin-top:1em;
+    width:568px;
+}
+
+.apacia-skaiciai {
+    margin-top:1em;
+    display:flex;
+    gap:1em;
+}
+
+.apacia-skaicius h3{
+    font-size: 45px;
+    font-family: "Roboto", sans-serif;
+    margin:0;
+}
+
+.apacia-skaicius span{
+    font-size:16px
+}
+
+.pradinis-apacia button{
+    margin-top:2em;
+}
+
+/* procesas */
+
+.procesai {text-align: center; font-family: "Roboto", sans-serif;}
+
+.procesai h3{
+margin-top:2em;
+font-size: 30px;
+color:#FF6600;
+font-weight: 600;
+}
+
+.procesai h4{
+font-weight:600;
+color:#0C1A3A;
+font-size:64px;
+margin-bottom:2em;
+}
+.procesas-titulinis {
+    margin-top:3em;
+    display:flex;
+    text-align: left;
+    position:relative;
+    bottom:5em;
+    left:5em;
+ }
+
+ .procesas-titulinis h4{
+   font-size: 30.17px;
+   font-family: "Roboto", sans-serif;
+   margin-bottom:0;
+}
+
+.procesu-sarasas {
+    margin-top:1em;
+    display:flex;
+    gap:1em;
+}
+
+.procesas{
+    margin-left:2em;
+    width:344.49px;
+    background-image: url('../img/remelisprocesams.png');
+    background-size: cover;
+    text-align: left;
+}
+
+
+
+.proceso-tekstas {
+    width:206.92px;
+   
+    position:relative;
+    bottom:3em;
+    left:2em;
+}
+
+.proceso-tekstas p {
+    letter-spacing: 1px;
+    font-family: "DM Sans", sans-serif;
+}
+
+
+.proce-pav {
+    position:relative;
+    top:0.5em;
+  
+}
+
+/* naujausi darbai */
+
+.naujausi {
+    width:1400px;
+    margin:0 auto;
+}
+
+.naujausi h3{
+    font-size:64px;
+    font-family: "Roboto", sans-serif;
+    color:black;
+    margin-bottom:2em;
+}
+
+.naujausi-darbai{
+    display:flex;
+    gap:5em;
+}
+
+.naujausi-btn {
+    background-color: #0a0a0a;
+    color:#fff;
+    font-weight:300;
+    align-self: flex-end;
+    margin-bottom:2em;
+}
+
+.naujausi-pav1 {
+    display:flex;
+    flex-direction: column;
+    
+}
+
+.naujausi-pav1 p{text-align: left; font-weight:600; font-family: "Roboto", sans-serif; font-size:30px; margin-top:1em;}
+.naujausi-pav1 span{text-align: left; font-weight:400; font-size:18px; font-family: "DM Sans", sans-serif; margin-bottom:2em;}
+
+
+.naujausi-pav2 {
+    display:flex;
+    flex-direction: column;
+}
+
+/* review dalis */
+
+.review-section {
+    margin:0 auto;
+    width:1400px;
+    background-color: #F4F4F4;
+    font-family: "Roboto", sans-serif;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom:4em;
+}
+
+.portrait {
+    margin-top:2em;
+    width:150px;
+    height:150px;
+    object-fit: cover;
+    object-position: top;
+    border-radius: 50%;
+ 
+}
+
+.review-section p{
+    text-align: center;
+    line-height: 29.28px;
+    margin-top:1em;
+    margin-bottom:1em;
+    width:1313px;
+    font-size:25px;
+    font-weight:600;
+}
+
+.review-section h4{
+    font-size: 20px;
+    color:#0C1A3A;
+    margin:0;
+}
+
+.review-section span{
+    font-size: 16px;
+
+}
+.review-controls {
+    display:flex;
+    gap:0.5em;
+    margin:2em;
+}
+

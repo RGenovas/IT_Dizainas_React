@@ -1,0 +1,277 @@
+.apie{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.apie-mus {
+    
+    width:1400px;
+    height:706px;
+    border-radius: 12px;
+    background-color: #0C1A3A;
+    color:#fff;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.apie-mus-banner{
+    padding:10px;
+   
+}
+
+.apie-mus h1{
+ 
+    width:631.53px;
+    font-size: 64px;
+    color:white;
+}
+
+.apie-mus p{
+
+    font-size:18px;
+    width:557px;
+    margin-top:3em;
+}
+
+.apie-mus-foto img{
+    
+    height:680px;
+    width:721px;
+    margin-top:2em;
+}
+
+.apiemusfoto1 {
+    position:relative;
+    top:3.5em;
+}
+.apzvalgospav{
+    margin-top:2em;
+}
+
+.grafikos-dalykai {
+
+    margin-top:5em;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.grafikos-dalykas {
+    margin-top:2em;
+    width:422px;
+    text-align: center;
+    padding:45px;
+
+}
+
+.grafikos-dalykas h2 {
+    font-family: "Roboto", sans-serif;
+    font-size:45px;
+    font-weight: 600;
+}
+
+.grafikos-dalykas h3{
+    font-family: "Roboto", sans-serif;
+    font-size:25px;
+
+
+}
+
+.grafikos-dalykas p {
+    font-family: "DM Sans", sans-serif;
+    font-size:18px;
+}
+
+.misija {
+    width:100%;
+    height:959px;
+    background-color: #0C1A3A;
+    color:#fff;
+    padding:2em;
+
+}
+
+
+
+.misijos{
+    width:1400px;
+    height:725px;
+    margin:0 auto;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+.misija-left h3{
+    margin-top:5em;
+    font-size:25px;
+    color:#FF6600;
+    font-weight:700;
+    font-family: "Roboto", sans-serif;
+}
+
+.misija-left h2{
+    margin-top:1em;
+    font-family: "Roboto", sans-serif;
+    font-size:64px;
+    font-weight: 600;
+    color:#fff;
+}
+
+.misija-left p{
+    margin-top:2em;
+    font-family: "DM Sans", sans-serif;
+    font-size:18px;
+    font-weight: 400;
+    color:#fff;
+}
+
+.misija-right {
+    width:737px;
+    display:flex;
+  
+    
+}
+
+.misija-lists {
+    display:grid;
+    grid-template-columns: auto auto;
+    gap:1em;
+    
+}
+
+.komanda {
+    width:200px;
+    height:115px;
+}
+
+.misija-lists ul {
+    margin-top:2em;
+    list-style-type: none;
+}
+
+.misija-lists ul li{
+    font-size:18px;
+    font-family: "DM Sans", sans-serif;
+    width:298.17px;
+    padding:10px;
+
+}
+
+.long-photo {
+    width:326px;
+    height:449px;
+    object-fit: cover;
+    border-radius:16px;
+    filter:grayscale(50%);
+     position:relative;
+    bottom:4em;
+    left:1em; 
+
+}
+
+.komanda {position:relative }
+
+.long-photo2 {
+    position:relative;
+    width:285.99px;
+    height:343px;
+    object-fit: cover;
+    border-radius:16px;
+    position:relative;
+    right:18em;
+    top:15em;
+    
+
+}
+
+.skaiciai{
+    display:flex;
+    position:relative;
+    top:28em;
+    right:28em;
+    
+  }
+
+  .vl {
+    border-left: 2px solid #fff;
+    height: 10em;
+    margin-left:2em;
+    margin-right:2em;
+  }
+
+  .skaicius h2{
+    font-family: "Roboto", sans-serif;
+    font-size:45px;
+    font-weight:700;
+  }
+
+  .skaicius p{
+    font-family: "DM Sans", sans-serif;
+    font-weight:400;
+    font-size:16px;
+    text-align: center;
+  
+  }
+
+  .skaiciai1 {
+    position:relative;
+    bottom:3em;
+  }
+
+  .skaiciai2 {
+    position:relative;
+    top:3em;
+  }
+
+  .musu-komanda{
+
+    text-align:center;
+  }
+
+  .musu-komanda h2{
+    margin-top:1em;
+    
+    font-family: "DM Sans", sans-serif;
+    font-size:64px;
+  }
+
+  .komandos-nariai {
+    display:flex;
+    justify-content: center;
+    gap:4em;
+  }
+
+  .narys{text-align:left; margin-bottom:5em;}
+  .narys h2{
+    margin:0;
+    font-size:20px;  
+  }
+
+  .narys p{color:#0C1A3AE5;}
+
+
+
+  .apie-linkai{
+    position:relative;
+    top:4em;
+    right:-17em;
+    padding:1px;
+    
+  }
+
+  .ikonele {
+    padding:5px;
+    width:35px;
+    height:35px;
+  }
+  
+
+  
+
+

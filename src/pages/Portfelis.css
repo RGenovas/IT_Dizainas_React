@@ -1,0 +1,69 @@
+.portfel-banner{
+    margin:0 auto;
+    width:1400px;
+    height:350px;
+    color:#fff;
+    background-color: #0C1A3A;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    border-radius:23px;
+}
+
+
+
+.portfel-banner h2{
+    font-family: "Roboto", sans-serif;
+    font-size:77px;
+    font-weight:700px;
+}
+
+.portfelio-galerija{
+    margin:0 auto;
+    width:1400px;
+    margin-top:5em;
+    margin-bottom:5em;
+    display:grid;
+    gap:4em;
+    grid-template-columns: auto auto;
+    align-items: center;
+    justify-items: center;
+
+}
+
+.galerijos-darbas h2{
+    margin-top:1em;
+    font-family: "Roboto", sans-serif;
+    font-weight:600;
+    font-size:30px;
+
+}
+
+.galerijos-darbas p{
+    font-family: "DM Sans", sans-serif;
+    margin-top:0.5em;
+    margin-bottom:3em;
+    font-weight:400;
+    font-size:18px;
+
+}
+
+.galerijos-img {
+  
+    width:664px;
+    height:450px;
+    border-radius: 20px;
+}
+
+.galerijos-nuoroda{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.vektorius {
+    width:40px;
+    height:40px;
+    position:relative;
+    right:22em;
+   
+}

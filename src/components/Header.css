@@ -1,0 +1,109 @@
+/* Navbaras/Headeris */
+.header-container {
+    width:100%;
+    background-color: #0C1A3A;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.header-container-dark {
+    width:100%;
+    background-color: #fff;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.header {
+    width:1400px;
+    padding:1em;
+    font-family: "DM Sans", sans-serif;
+    font-weight: 400;
+    font-size:20px;
+    height:53px;
+    display:flex;
+    align-items: center;
+   
+    background-color: #0C1A3A;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.headerDark {
+    width:1400px;
+    padding:1em;
+    font-family: "DM Sans", sans-serif;
+    font-weight: 400;
+    font-size:20px;
+    height:53px;
+    display:flex;
+    align-items: center;
+   
+    background-color: #fff;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.header-links {
+  
+    width:612px;
+    height:47px;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    
+    
+}
+
+.headerDark-links {
+    width:612px;
+    height:47px;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+
+
+
+.header-links h3{color:white;}
+
+.headerDark-links h3{color:rgb(20, 20, 20);}
+
+.active {
+    text-decoration: none;
+}
+.active h3{color:orange;}
+ 
+ a:not(.active) {text-decoration: none;}
+
+
+.header button{
+    width:126px;
+    height:47px;
+    padding: 8px 16px 8px 16px;
+    border-radius: 23px;
+    color: #0C1A3A;
+    font-size:18px;
+    font-weight: 400px;
+    background-color: #fff;
+    font-family: "DM Sans", sans-serif;
+
+}
+
+
+.headerDark button{
+    width:126px;
+    height:47px;
+    padding: 8px 16px 8px 16px;
+    border-radius: 23px;
+    color: #fff;
+    font-size:18px;
+    font-weight: 400px;
+    background-color: #0a0a0a;
+    font-family: "DM Sans", sans-serif;
+
+}

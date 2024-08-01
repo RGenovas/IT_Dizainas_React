@@ -1,0 +1,129 @@
+/* footeris */
+
+.footer {
+    background-color: #0C1A3A;
+    color:#fff;
+    
+}
+
+
+.footer-container{
+    height:260px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    gap:3em;
+    background-color: #0C1A3A;
+    color:#F4F4F4;
+    
+    font-family: "DM Sans", sans-serif;
+}
+
+.footer-first{
+   width:357px;
+}
+
+.footer-first p{
+ 
+   font-size:18px;
+}
+
+.footer-second {
+    margin-top:1em;
+    width:93px;
+}
+
+.footer-third {
+    margin-top:3em;
+    width:363pxpx;
+}
+
+
+.footer-second h2, .footer-third h2, .apacios-elementas h2{    
+  
+    font-family: "Roboto", sans-serif;
+    font: weight 600px;
+    font-size:20px;
+    margin-bottom:1em;
+    
+}
+.footer-second p, .footer-third p , .apacios-elementas p{    
+  padding-top:10px;
+  color:#fff;
+    
+}
+
+
+
+.footer-linija {
+    width:1400px;
+    margin:0 auto;
+    padding:1em;
+    border-bottom:1px solid #fff;
+    margin-bottom:2em;
+}
+
+.footer-fourth {
+    margin-bottom:3em;
+    
+}
+
+
+.footer-fourth h2{
+    font-family: "Roboto", sans-serif;
+    font: weight 600px;
+    font-size:20px;
+    padding-bottom:1em;
+
+}
+
+
+.fourth-input  {
+    background-color: #fff;
+    border:1px solid #fff;
+    border-radius: 30px;
+    width:433px;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size:18px
+
+}
+
+.fourth-input input {
+    background-color: none;
+    border:none;
+    width:433px;
+    height:63px;
+    border-radius: 24px;
+    padding-left:20px;
+    font-size:18px
+    
+}
+
+.fourth-input button {
+    background-color: none;
+    border:none;
+    padding:8px 16px 8px 16px;
+    height:47px;
+    width:151px;
+    border-radius: 23px;
+    background-color: #0C1A3A;
+    color:#fff;
+    font-size:18px;
+}
+
+.footer-apacia {
+    margin:0 auto;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    width:1400px;
+    padding-bottom:5em;
+}
+
+.logotipai {
+    display:flex;
+    gap:1em;
+}
+
